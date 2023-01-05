@@ -1,0 +1,19 @@
+{
+  "name": "mockttp_keepalive_bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "^19"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mockttp": "^3.6.2",
+    "node-fetch": "^2.6.7"
+  }
+}
